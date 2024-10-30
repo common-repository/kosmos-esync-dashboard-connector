@@ -1,0 +1,44 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+h3 {
+	clear:both;
+	padding-top: 15px;
+}
+
+dt {
+	font-weight: bolder;
+}
+
+ ul.kedc-tabs li {
+ 	display: inline-block;
+ 	padding: 10px;
+ 	/*border-left: 4px solid blue;*/
+ }
+
+  ul.kedc-tabs li a {
+  	color: #000;
+  	text-transform: uppercase;
+  }
+
+  ul li.emphasize a {
+  	font-weight: bolder;
+  	color: #17adec;
+  }
+
+ img.kosmos-plugin-logo {
+ 	display: block;
+ 	float: left;
+ 	width: 100px;
+ 	height: auto;
+ }
+
+ img.rs-banner {
+ 	display: block;
+ 	float:left;
+ 	padding-right: 15px;
+ 	width: 150px;
+ 	height: auto;
+ }
